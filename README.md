@@ -13,10 +13,7 @@ Demo project for showing different methods of Firebase Authentication
 - In this githup repo google-services,json is not uploaded, so please don't forget to add google-services.json.
 
 # Download the sample Apk
-<a download="CommonNotes.apk" href="https://github.com/sathishmepco/Firebase-Authentication/blob/master/app/release/Firebase%20Authentication.apk"> Click here to download the apk file </a>
-{% raw %}
-<button onclick="window.open('/https://github.com/sathishmepco/Firebase-Authentication/blob/master/app/release/Firebase%20Authentication.apk')">Download Apk file</button>
-{% endraw %}
+<a target="_blank" download="CommonNotes.apk" href="https://github.com/sathishmepco/Firebase-Authentication/blob/master/app/release/Firebase%20Authentication.apk"> Click here to download the apk file </a>
 
 # Email Password Authentication
     In this method, user can register with his email id and password. If this user is already have a account then he can login with the same credential. Firebase provides password reset mechanism also.
